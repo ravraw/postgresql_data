@@ -1,0 +1,22 @@
+{
+  "name": "postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravraw/postgresql_data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravraw/postgresql_data/issues"
+  },
+  "homepage": "https://github.com/ravraw/postgresql_data#readme",
+  "dependencies": {
+    "pg": "^7.6.1"
+  }
+}
